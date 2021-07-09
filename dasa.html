@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <style>
+#b{
+    display: none;
+    background-color:red;
+
+}
+        </style>
+
+    </head>
+    <script>
+        
+        function a(){
+            var x= document.getElementById('b');
+            if(x.style.display =='none'){
+                x.style.display='block';
+            } 
+            else{
+                x.style.display='none';
+            }
+        }
+    </script>
+    <body>
+        <button onclick="a()">Clcik Here</button>
+        <div id="b">This text</div>
+    </body>
+</html>
