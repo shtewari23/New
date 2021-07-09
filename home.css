@@ -1,12 +1,12 @@
 body{
-    background: linear-gradient(to bottom,#f1efec ,#b0b4b6 );
+    width:auto;
     }
     .page{
         height:900px;
         margin-top: 0px;
         margin-left: 100px;
         margin-right:100px;
-        
+        width: 1300px;
         background-color:white;
         position: relative;
     }
