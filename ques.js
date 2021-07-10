@@ -14,11 +14,11 @@
       }
       function c(){
           
-          c++;
-          document.getElementById('p').innerHTML=c;
-      }
-      function d(){
-          
-          d++;
-          document.getElementById('p').innerHTML=c;
-      }
+        c++;
+        document.getElementById('p').innerHTML=c;
+    }
+    function d(){
+        
+        d++;
+        document.getElementById('p').innerHTML=c;
+    }
