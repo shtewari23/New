@@ -22,3 +22,8 @@
           d++;
           document.getElementById('p').innerHTML=c;
       }
+      function e(){
+          
+        e++;
+        document.getElementById('p').innerHTML=c;
+    }
